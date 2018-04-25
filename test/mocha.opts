@@ -1,7 +1,0 @@
---require babel-register
---require ./test/_setup.js
---es_staging
---recursive
---reporter min
---ui bdd
---watch

@@ -28,5 +28,8 @@
     "mocha": "^4.1.0",
     "nodemon": "^1.12.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "csv-writer": "^1.0.0",
+    "mailparser": "^2.2.3"
+  }
 }
